@@ -1,0 +1,8 @@
+exit
+db.posts.find()
+db.collection.find(query, projection)
+select * from users;
+select * from users
+show collections
+use wanderlust
+show collections
